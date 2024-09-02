@@ -1,5 +1,5 @@
 # 👋 Hello World, je suis Vazgen Markraryan!
-## 🎓 Étudiant finissant en informatique, passionné par le développementlogiciel et le web. 
+## 🎓 Étudiant finissant en informatique, passionné par le développement logiciel et le web. 
  - Je suis à la recherche active d'un stage pour mettre en pratique mes compétences et contribuer à des projets stimulants.
 # 🚀 Ce que je recherche :
  - Un stage en développement logiciel ou en développement web, où je pourrais continuer à apprendre, collaborer avec des équipes talentueuses, et contribuer à des projets significatifs.
