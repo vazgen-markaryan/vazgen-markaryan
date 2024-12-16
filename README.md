@@ -12,6 +12,11 @@ L'application offre une interface utilisateur intuitive pour créer, consulter, 
 - **[Gestion de la Bibliothèque]** : Ce projet est une application de gestion de bibliothèque développée en Java avec Spring Boot et React pour le Front End. 
 Il permet de gérer les utilisateurs, les documents (livres, CD, DVD, manuels scolaires) et les emprunts.
 
+- **[Fructose-Internship-Platform]** : Ce projet est une application de gestion de milieu de stage développée en Java avec Spring Boot et React pour le Front End. 
+Il permet d'interagir avec les rôles tels que Étudiant, Employeur, Professeur et Administrateur. La plateforme permet de gérér, publier et appliquer sur un offre de Stage en tant que Étudiant et Employeur.
+La gestiond des PDFs sont aussi present. CV, Évaluation du Milieu de Stage, Évaluation de l'Étudiant sont faits en format PDF.
+Developpé en Java avec Spring Boot, PostgreSQL et React en équipe de 5 personnes avec la methodologie Agile - SCRUM.
+
 # 🌱 Ce que j'apprends actuellement :
 - J'ai commencé mes recherches en 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) en lien avec 
