@@ -1,7 +1,7 @@
 # 👋 Hello World, je suis Vazgen Markraryan!
 ## 🎓 Junior Software Developer diplômé en Techniques de l’informatique (2025)
 - Passionné par le développement logiciel, mobile et web, avec un fort intérêt pour les systèmes embarqués et les interfaces intuitives.  <br>
-- Ouvert à des opportunités professionnelles stimulantes où je peux continuer à apprendre, innover et avoir un impact concret.<br><br>
+- Ouvert à des opportunités professionnelles stimulantes où je peux continuer à apprendre, innover et avoir un impact concret.<br>
 
 # 🚀 Ce que je recherche :
 - Un poste en développement logiciel, où je peux contribuer à la création de solutions concrètes et utiles.  <br>
