@@ -5,7 +5,7 @@
 
 # 🚀 Ce que je recherche :
 - Un poste en développement logiciel, où je peux contribuer à la création de solutions concrètes et utiles.  <br>
-- Un environnement collaboratif et dynamique, avec des défis techniques réels et une marge pour l’innovation.<br><br>
+- Un environnement collaboratif et dynamique, avec des défis techniques réels et une marge pour l’innovation.<br>
 - Des opportunités de travailler sur des technologies innovantes, d'explorer de nouvelles idées, et de résoudre des problèmes complexes.
 
 # 🛠️ Projets récents :
