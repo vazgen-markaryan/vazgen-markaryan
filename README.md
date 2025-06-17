@@ -9,18 +9,12 @@
 - Des opportunités de travailler sur des technologies innovantes, d'explorer de nouvelles idées, et de résoudre des problèmes complexes.
 
 # 🛠️ Projets récents :
-- **[RevGlacierSMA](https://github.com/vazgen-markaryan/RevGlacierSMA)** : Application Flutter mobile développée pour le débogage d’une station météo sur glacier. Remplacement d’un système basé sur PC par une solution mobile en temps réel (Stage en entreprise).  <br>
+- **[RevGlacierSMA](https://github.com/vazgen-markaryan/GlacierSMA)** : Application Flutter mobile développée pour le débogage d’une station météo sur glacier. Remplacement d’un système basé sur PC par une solution mobile en temps réel (Stage en entreprise). <br>
 
 - **[Fructose-Internship-Platform](https://github.com/vazgen-markaryan/Fructose-Internship-Platform)** : Ce projet est une application de gestion de milieu de stage développée en Java avec Spring Boot et React pour le Front End. 
 Il permet d'interagir avec les rôles tels que Étudiant, Employeur, Professeur et Administrateur. La plateforme permet de gérér, publier et appliquer sur un offre de Stage en tant que Étudiant et Employeur.
 La gestiond des PDFs sont aussi present. CV, Évaluation du Milieu de Stage, Évaluation de l'Étudiant sont faits en format PDF.
 Developpé en Java avec Spring Boot, PostgreSQL et React en équipe de 5 personnes avec la methodologie Agile - SCRUM.
-
-- **[Gestion Des Reunions](https://github.com/vazgen-markaryan/Gestion-Des-Reunions)** : Ce projet est une application web de gestion des réunions, développée en utilisant le framework Angular. 
-L'application offre une interface utilisateur intuitive pour créer, consulter, et gérer des réunions.
-
-- **[Gestion de la Bibliothèque](https://github.com/vazgen-markaryan/Gestion-De-Bibliotheque)** : Ce projet est une application de gestion de bibliothèque développée en Java avec Spring Boot et React pour le Front End. 
-Il permet de gérer les utilisateurs, les documents (livres, CD, DVD, manuels scolaires) et les emprunts.
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/416562052723638272) 
