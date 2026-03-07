@@ -1,12 +1,4 @@
 # 👋 Hello World, je suis Vazgen Markraryan!
-## 🎓 Junior Software Developer diplômé en Techniques de l’informatique (2025)
-- Passionné par le développement logiciel, mobile et web, avec un fort intérêt pour les systèmes embarqués et les interfaces intuitives.  <br>
-- Ouvert à des opportunités professionnelles stimulantes où je peux continuer à apprendre, innover et avoir un impact concret.<br>
-
-# 🚀 Ce que je recherche :
-- Un poste en développement logiciel, où je peux contribuer à la création de solutions concrètes et utiles.  <br>
-- Un environnement collaboratif et dynamique, avec des défis techniques réels et une marge pour l’innovation.<br>
-- Des opportunités de travailler sur des technologies innovantes, d'explorer de nouvelles idées, et de résoudre des problèmes complexes.
 
 # 🛠️ Projets récents :
 - **[RevGlacierSMA](https://github.com/vazgen-markaryan/GlacierSMA)** : Application Flutter mobile développée pour le débogage d’une station météo sur glacier. Remplacement d’un système basé sur PC par une solution mobile en temps réel (Stage en entreprise). <br>
